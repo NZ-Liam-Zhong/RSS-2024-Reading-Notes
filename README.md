@@ -3,7 +3,7 @@
 
 accepted paper 共分为17个session，下面的记录将按照每个session分类，并注明编号：
 
-**SESSION 7: imitation learning**
+**SESSION 7: IMITATION LEARNING**
 
 *7. Imitation Bootstrapped Reinforcement Learning*
    
