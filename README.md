@@ -10,5 +10,6 @@ accepted paper 共分为17个session，下面的记录将按照每个session分�
   Wendy:
   
   Liam:
-  
+  ![image](https://github.com/user-attachments/assets/c4a57bde-770b-4195-a145-2fc2cc46ad49)
+
    
